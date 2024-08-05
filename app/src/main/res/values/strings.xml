@@ -7,6 +7,30 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <string name="generic_words">
+        <value>Boy</value>
+        <value>Girl</value>
+        <value>Car</value>
+        <value>Truck</value>
+        <value>Dog</value>
+        <value>Cat</value>
+        <value>Restaurant</value>
+        <value>Supermarket</value>
+        <value>Gas Station</value>
+        <value>School</value>
+        <value>Power Line</value>
+        <value>Exit Sign</value>
+        <value>Deer Crossing Sign</value>
+        <value>Campground Sign</value>
+        <value>Travel Info Sign</value>
+        <value>State Sign</value>
+        <value>State Park Sign</value>
+        <value>Motorcycle</value>
+        <value>Bicycle</value>
+        <value>Rest Area</value>
+        <value>Interstate Sign</value>
+    </string>
+
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
